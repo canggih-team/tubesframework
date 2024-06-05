@@ -30,7 +30,7 @@
 
 <body>
 
-    @include('admin.header')
+    @include('admin.sidebar')
 
     <!-- Sidebar Navigation end-->
     <div class="page-content">
